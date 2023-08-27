@@ -1,6 +1,14 @@
-u-nit-backups
-~u-nit.kicad_pcb.lck
+# General folders
 tmp
+
+# General files
 *.swp
 *.*.swp
 .DS_Store
+
+# FreeCAD
+*.FCBak
+
+# KiCAD
+~u-nit.kicad_pcb.lck
+u-nit-backups
