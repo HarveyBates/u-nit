@@ -9,6 +9,7 @@ An STM32 based general purpose microcontroller designed for mixed signal applica
   <img src="media/u-nit.png" width="300" align="right">
 
 - Wide input voltage (4.5 - 40 VDC)
+- Palm size (65 mm x 80 mm)
 - Replaceable fuse (10 A) and reverse-polarity protection
 - Line regulation and outputs (VIN, 5V, 3V3)
 - CAN transceiver built in with 120 ohm termination
