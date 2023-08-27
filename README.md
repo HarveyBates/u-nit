@@ -4,11 +4,9 @@
 
 An STM32 based general purpose microcontroller designed for mixed signal applications. 
 
-
-
 ### Features:
 
-  <img src="electronics/u-nit/imgs/u-nit.png" width="300" align="right">
+  <img src="media/u-nit.png" width="300" align="right">
 
 - Wide input voltage (4.5 - 40 VDC)
 - Replaceable fuse (10 A) and reverse-polarity protection
