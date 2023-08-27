@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "U-NIT")
+    (date "2023-08-27")
+    (rev "1.0")
+    (company "Harvey Bates")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_01x05_Socket" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 7.62 0)
@@ -5221,9 +5228,9 @@
     )
     (pin "1" (uuid 6f1f6d73-6d39-4074-8561-94d251871497))
     (pin "2" (uuid bf3af02b-b546-444a-85c6-362644b972f9))
-    (pin "3" (uuid 192afdb1-dbe8-494a-8dc8-93cab0f1c51e))
-    (pin "3" (uuid 192afdb1-dbe8-494a-8dc8-93cab0f1c51e))
-    (pin "3" (uuid 192afdb1-dbe8-494a-8dc8-93cab0f1c51e))
+    (pin "3" (uuid 192afdb1-dbe8-494a-8dc8-93cab0f1c522))
+    (pin "3" (uuid 192afdb1-dbe8-494a-8dc8-93cab0f1c522))
+    (pin "3" (uuid 192afdb1-dbe8-494a-8dc8-93cab0f1c522))
     (pin "4" (uuid 7f316502-7d85-4616-b3e4-f00dd3453b62))
     (instances
       (project "u-nit"
