@@ -16,5 +16,5 @@ An STM32 based general purpose microcontroller designed for mixed signal applica
 - CAN transceiver built in with 120 ohm termination
 - Debug through ST-Link (2 connector varieties)
 - 4 high-power, high-side switches (2 A per channel or 6 A if chained)
-- General purpose interfaces (2 USART, 2 ADC, 1 I2C, >1 GPI)
+- General purpose interfaces (2 USART, 2 ADC, 2 DAC, 1 I2C, >1 GPI)
 - Piezo buzzer for audible feedback
