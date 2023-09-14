@@ -8,7 +8,9 @@ tmp
 
 # FreeCAD
 *.FCBak
+*.*.FCBak
 
 # KiCAD
 ~u-nit.kicad_pcb.lck
 u-nit-backups
+
