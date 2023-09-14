@@ -2,7 +2,7 @@
   <img src="media/logo.png" width="300">
 </p>
 
-An STM32 based general purpose microcontroller designed for mixed signal applications. 
+An STM32 based general purpose board designed for mixed signal applications. 
 
 ### Features:
 
